@@ -1,357 +1,357 @@
-Error: Albert Glyburide guess=person gold=drug confidence=0.9257690850725603
-Error: Alesse guess=place gold=drug confidence=0.7473811692528678
-Error: Allay guess=place gold=drug confidence=0.7086251681541945
-Error: Allegra guess=place gold=drug confidence=0.37145619696474863
-Error: Amgenal Cough guess=movie gold=drug confidence=0.38154885872137323
-Error: Barbita guess=place gold=drug confidence=0.4915467491142991
-Error: Barriere-HC guess=place gold=drug confidence=0.8949893121829973
-Error: Beben guess=movie gold=drug confidence=0.44806242155958664
-Error: Because guess=place gold=drug confidence=0.5756815202131762
-Error: BIAVAX II guess=person gold=drug confidence=0.31326716232735685
-Error: Brethine guess=place gold=drug confidence=0.3878058035129446
-Error: Broncomar GG guess=company gold=drug confidence=0.3443481459820441
-Error: Camptosar guess=place gold=drug confidence=0.36114483901431366
-Error: Caverject guess=movie gold=drug confidence=0.34239818081670637
-Error: Clear by Design Medicated Cleansing Pads guess=movie gold=drug confidence=0.8145558395985606
-Error: Cutar Water Dispersible Emollient Tar guess=movie gold=drug confidence=0.9367544159261094
-Error: Dodd's Pills guess=movie gold=drug confidence=0.638566029672421
-Error: Famvir guess=movie gold=drug confidence=0.5570992680620204
-Error: Fansidar guess=movie gold=drug confidence=0.5995678114655361
-Error: FluShield guess=place gold=drug confidence=0.8038905282785137
-Error: Gammar-P IV guess=person gold=drug confidence=0.8269044224791829
-Error: Gee-Gee guess=place gold=drug confidence=0.6474846976513914
-Error: Glaucon guess=place gold=drug confidence=0.562218481643238
-Error: Headache Tablet guess=movie gold=drug confidence=0.8925387736204685
-Error: Kadian guess=movie gold=drug confidence=0.5618895053931743
-Error: Kato guess=movie gold=drug confidence=0.4384881613400377
-Error: Meridia guess=place gold=drug confidence=0.6178946286400195
-Error: Meruvax II guess=person gold=drug confidence=0.47462248443723354
-Error: Miltown guess=place gold=drug confidence=0.8479572733298464
-Error: Moban guess=place gold=drug confidence=0.41640609524235633
-Error: Mylanta Gas guess=movie gold=drug confidence=0.4565030030254192
-Error: Neumega guess=place gold=drug confidence=0.821002015667034
-Error: Neuroforte-R guess=place gold=drug confidence=0.5373591795600017
-Error: Orfro guess=movie gold=drug confidence=0.38440885505507777
-Error: Provera Pak guess=movie gold=drug confidence=0.5499353209988236
-Error: Pyri guess=movie gold=drug confidence=0.6579247287592488
-Error: Rowasa guess=place gold=drug confidence=0.4918847270872196
-Error: SensoGARD Canker Sore Relief guess=movie gold=drug confidence=0.4091496629489702
-Error: Shovite guess=movie gold=drug confidence=0.47606144273537426
-Error: Slow Fe guess=movie gold=drug confidence=0.8038909833997073
-Error: Statuss Green 39 guess=movie gold=drug confidence=0.5183920916516404
-Error: Storz-Dexa guess=place gold=drug confidence=0.39634800406259435
-Error: Sublimaze guess=movie gold=drug confidence=0.7411923523761031
-Error: Sunkist guess=movie gold=drug confidence=0.38133865975171544
-Error: Sustiva guess=movie gold=drug confidence=0.4932648189856856
-Error: Tarka guess=place gold=drug confidence=0.6824651531017869
-Error: Vaseline Extra Defense for Hand and Body 41 guess=movie gold=drug confidence=0.641583760764285
-Error: Versel Lotion guess=movie gold=drug confidence=0.44206896737683604
-Error: Vumon guess=place gold=drug confidence=0.5757091781183339
-Error: Apollo guess=movie gold=person confidence=0.3265588322654296
-Error: Athene guess=drug gold=person confidence=0.6945070044444334
-Error: Barakah guess=place gold=person confidence=0.4753668837877867
-Error: Ben Kingsley guess=place gold=person confidence=0.4880976606758612
-Error: Blaise Pascal guess=movie gold=person confidence=0.8589444334528978
-Error: Buffon guess=place gold=person confidence=0.6727956153963489
-Error: C de la Vall�e Poussin guess=movie gold=person confidence=0.866625714176775
-Error: Cal Ripken, Jr. guess=movie gold=person confidence=0.5374954875129553
-Error: Catfish Hunter guess=movie gold=person confidence=0.42049300132748313
-Error: Celestine II guess=drug gold=person confidence=0.46117512596770466
-Error: Cher guess=place gold=person confidence=0.4829105001427707
-Error: Chevy Chase guess=movie gold=person confidence=0.42634476421964973
-Error: Clouet guess=place gold=person confidence=0.5641460379180433
-Error: Conon guess=place gold=person confidence=0.6615679018770949
-Error: D'alembert guess=place gold=person confidence=0.5786421367923051
-Error: Deepak Chopra guess=movie gold=person confidence=0.581058776135662
-Error: Dirk Bouts guess=movie gold=person confidence=0.9333169743883145
-Error: Empedocles guess=place gold=person confidence=0.3480922595617359
-Error: Galahad guess=place gold=person confidence=0.4810619395533765
-Error: Gorlois guess=place gold=person confidence=0.6585688753328252
-Error: Hans Reichenbach guess=place gold=person confidence=0.6914786648465361
-Error: Heather Locklear guess=movie gold=person confidence=0.8055808471444735
-Error: Herakles guess=movie gold=person confidence=0.5178908031788959
-Error: Hercules guess=place gold=person confidence=0.4762989300348417
-Error: Isaac Newton guess=place gold=person confidence=0.5727005487809459
-Error: Maria da Lourdes Pintasilgo guess=movie gold=person confidence=0.8836988438804129
-Error: Mickey Mantle guess=movie gold=person confidence=0.44636344480432744
-Error: Miguel Angel Asturias guess=movie gold=person confidence=0.7399412161984803
-Error: Mohamed Anwar El Sadat guess=movie gold=person confidence=0.9052099373977728
-Error: Mordred guess=place gold=person confidence=0.4134186012903855
-Error: Nellie Bly guess=movie gold=person confidence=0.45928315322666946
-Error: Olga Cordero guess=movie gold=person confidence=0.6245384637514202
-Error: Oronce Fine guess=drug gold=person confidence=0.6180873710003445
-Error: Paschal II guess=movie gold=person confidence=0.7552110701752013
-Error: Phidias guess=drug gold=person confidence=0.5865130484419058
-Error: Plotinus guess=drug gold=person confidence=0.5665489316773472
-Error: Ptolemy guess=place gold=person confidence=0.33909666385392123
-Error: Ray Schalk guess=movie gold=person confidence=0.5201433828998872
-Error: Ren� de Sluze guess=movie gold=person confidence=0.6411698799969135
-Error: Roussou, guess=place gold=person confidence=0.8169688146157965
-Error: Tartaglia guess=place gold=person confidence=0.7561625053998923
-Error: Thales guess=place gold=person confidence=0.7339497584332723
-Error: Thanatos guess=place gold=person confidence=0.404522200151471
-Error: Tristan & Isolde guess=drug gold=person confidence=0.6467919196648477
-Error: Tutankhamen guess=place gold=person confidence=0.5122455952769018
-Error: Aberdyfi guess=movie gold=place confidence=0.4149259676849693
-Error: Alphen guess=drug gold=place confidence=0.7616506108700664
-Error: Balsall Common guess=movie gold=place confidence=0.5701095380360163
-Error: Barking and Dagenham guess=movie gold=place confidence=0.6135900896884644
-Error: Barnard Castle guess=person gold=place confidence=0.5207081995409414
-Error: Barrack Heights guess=movie gold=place confidence=0.49135856159175867
-Error: Betws-y-Coed guess=drug gold=place confidence=0.3989290248690217
-Error: Blackwater guess=movie gold=place confidence=0.5180622050492977
-Error: Bondi Junction guess=movie gold=place confidence=0.7486331932395486
-Error: Bosnia and Herzegovina guess=movie gold=place confidence=0.9272776967073207
-Error: Bunnik guess=movie gold=place confidence=0.4807617881064638
-Error: Bury St. Edmunds guess=person gold=place confidence=0.46846746294942937
-Error: Clare guess=movie gold=place confidence=0.4401328055556139
-Error: Cogolin guess=drug gold=place confidence=0.7260055428489802
-Error: Colmar guess=drug gold=place confidence=0.5148042541845321
-Error: Colorado guess=drug gold=place confidence=0.4761299500896054
-Error: Corte guess=drug gold=place confidence=0.8372202810215901
-Error: Coverack guess=movie gold=place confidence=0.49816148616834705
-Error: Deal guess=movie gold=place confidence=0.5473591289026755
-Error: Denby Dale guess=movie gold=place confidence=0.4800323450119491
-Error: Diss guess=movie gold=place confidence=0.6472961192472815
-Error: Dural guess=drug gold=place confidence=0.8400676626098882
-Error: Ediger guess=movie gold=place confidence=0.43835704250383906
-Error: Elanora Heights guess=person gold=place confidence=0.5227728096021388
-Error: Exeter guess=movie gold=place confidence=0.31183994665172354
-Error: Fajardo guess=movie gold=place confidence=0.7852262138447709
-Error: Faygate guess=movie gold=place confidence=0.37830923388232635
-Error: Five Dock guess=movie gold=place confidence=0.9388159719927359
-Error: Florence Court guess=person gold=place confidence=0.7726886344972609
-Error: Freising guess=movie gold=place confidence=0.6372587854546853
-Error: Gest� guess=movie gold=place confidence=0.4263928089223627
-Error: Goffs Oak guess=movie gold=place confidence=0.5474932654031287
-Error: Hemyock guess=movie gold=place confidence=0.46768916001045124
-Error: Hilcote guess=drug gold=place confidence=0.5253345960014933
-Error: Ivanovo guess=movie gold=place confidence=0.38979596662507743
-Error: John o' Groats guess=person gold=place confidence=0.9411827450756455
-Error: Joyeuse guess=person gold=place confidence=0.41494649400304595
-Error: Julianadorp aan Zee guess=person gold=place confidence=0.8236036727279169
-Error: King's Lynn guess=movie gold=place confidence=0.5885959182926687
-Error: La Trinit�-sur-Mer guess=movie gold=place confidence=0.5111080185629951
-Error: Lab�ge guess=movie gold=place confidence=0.4711076733390928
-Error: Lemmer guess=movie gold=place confidence=0.48327267785841266
-Error: Les Saisies guess=movie gold=place confidence=0.8791876011786288
-Error: Mandelieu la Napoule guess=movie gold=place confidence=0.8443703753943629
-Error: Marazion guess=movie gold=place confidence=0.4654955431183825
-Error: Melrose guess=drug gold=place confidence=0.6037270564670459
-Error: Muir of Ord guess=movie gold=place confidence=0.6670620183704346
-Error: Myanmar guess=drug gold=place confidence=0.5645348402373163
-Error: Najac guess=drug gold=place confidence=0.615739723278132
-Error: Narromine guess=drug gold=place confidence=0.701100389091925
-Error: Old Warden guess=movie gold=place confidence=0.6328505839896731
-Error: Oundle guess=movie gold=place confidence=0.5327634611683995
-Error: Paris guess=movie gold=place confidence=0.6050640456692499
-Error: Perm guess=drug gold=place confidence=0.7596026918701565
-Error: Pleasure Point guess=movie gold=place confidence=0.6247721185542476
-Error: Poitiers guess=movie gold=place confidence=0.4884138369668397
-Error: Prescot guess=drug gold=place confidence=0.5955173321301758
-Error: Quirindi guess=movie gold=place confidence=0.6135916094299102
-Error: Reims guess=movie gold=place confidence=0.46416913721411357
-Error: Remseck guess=drug gold=place confidence=0.4153170130155548
-Error: Rhyl guess=drug gold=place confidence=0.8774921247228611
-Error: Rio Blanco guess=person gold=place confidence=0.6775933565576496
-Error: Rio Piedras guess=person gold=place confidence=0.763346033954104
-Error: Rothenburg ob der Tauber guess=person gold=place confidence=0.8485735192935573
-Error: Saint Vincent and The Grenadines guess=movie gold=place confidence=0.9720544205342585
-Error: Samara guess=movie gold=place confidence=0.45799356074816044
-Error: Sao Tome and Principe guess=movie gold=place confidence=0.9755352731354293
-Error: Scone guess=drug gold=place confidence=0.4492985848048158
-Error: Sens guess=movie gold=place confidence=0.5145270131319504
-Error: Shipston on Stour guess=movie gold=place confidence=0.5439422544205179
-Error: Solomon Islands guess=movie gold=place confidence=0.7095110351153743
-Error: St. Andrews guess=person gold=place confidence=0.7985994595525503
-Error: Strabane guess=drug gold=place confidence=0.49393207132387046
-Error: Suhl guess=drug gold=place confidence=0.5214555593631451
-Error: Travem�nde guess=movie gold=place confidence=0.570712973101793
-Error: Trinidad and Tobago guess=movie gold=place confidence=0.9179402346382848
-Error: Tuvalu guess=drug gold=place confidence=0.6853105882914968
-Error: Twente guess=movie gold=place confidence=0.44889480504247836
-Error: Ventabren guess=drug gold=place confidence=0.8382902775931175
-Error: Vietnam guess=movie gold=place confidence=0.36077442342752025
-Error: Westward Ho! guess=movie gold=place confidence=0.3456479951642723
-Error: 0.12h guess=drug gold=movie confidence=0.6279466762981428
-Error: 405 guess=drug gold=movie confidence=0.7735676325955677
-Error: 50CC guess=drug gold=movie confidence=0.8679122734018133
-Error: 9-Ball guess=drug gold=movie confidence=0.5263894699125833
-Error: Accidental Detective guess=drug gold=movie confidence=0.6204608588635224
-Error: Aisha guess=place gold=movie confidence=0.810387612761185
-Error: Aitanic guess=drug gold=movie confidence=0.5495713359891281
-Error: Am�lia guess=place gold=movie confidence=0.5602618226052174
-Error: Anak guess=drug gold=movie confidence=0.4280982664216759
-Error: Andel Exit guess=person gold=movie confidence=0.38985277382706734
-Error: Animated Corpse guess=company gold=movie confidence=0.7458834457001065
-Error: Apartment Hunting guess=person gold=movie confidence=0.5637730347311783
-Error: BWP2 guess=drug gold=movie confidence=0.5210448570197339
-Error: Banditskij Peterburg guess=place gold=movie confidence=0.7452617991377275
-Error: Banjo-Tooie guess=place gold=movie confidence=0.816181657951407
-Error: Barnard Girls guess=person gold=movie confidence=0.6006148885023579
-Error: Battery Park guess=place gold=movie confidence=0.5364897553762689
-Error: Bavandar guess=place gold=movie confidence=0.43791577204315885
-Error: Believe guess=place gold=movie confidence=0.6229294595363898
-Error: Best guess=place gold=movie confidence=0.42619359617290564
-Error: Bhai Thakur guess=person gold=movie confidence=0.44719090515189835
-Error: Billet-doux guess=place gold=movie confidence=0.8845230066327344
-Error: Bio-Cops guess=drug gold=movie confidence=0.6622831432860108
-Error: Blister guess=place gold=movie confidence=0.5949298461478837
-Error: Blood guess=place gold=movie confidence=0.5252142339078475
-Error: Bombshell guess=place gold=movie confidence=0.8713404418646903
-Error: Bone guess=place gold=movie confidence=0.5290794166356819
-Error: Boris guess=place gold=movie confidence=0.6026961021398558
-Error: Bronx-Barb�s guess=drug gold=movie confidence=0.4841831140119337
-Error: Brottsv�g guess=place gold=movie confidence=0.5665649935961367
-Error: Burnside guess=place gold=movie confidence=0.7892081060984507
-Error: Buttwoman vs. Buttwoman guess=person gold=movie confidence=0.5617881764704648
-Error: Cabin Fever guess=person gold=movie confidence=0.5417426801111289
-Error: Caribbean Undercover guess=person gold=movie confidence=0.6752021322196337
-Error: Catastrophe guess=drug gold=movie confidence=0.7436052635205218
-Error: Cecilia guess=place gold=movie confidence=0.3748218506311916
-Error: Cherry Hills guess=place gold=movie confidence=0.794035059523463
-Error: Citizen James guess=person gold=movie confidence=0.6434263981718102
-Error: Conamara guess=place gold=movie confidence=0.4620366035462725
-Error: Cremains guess=place gold=movie confidence=0.9389401706795033
-Error: Cursed guess=place gold=movie confidence=0.39916254965325243
-Error: C�sar guess=place gold=movie confidence=0.47250412272911985
-Error: D.C. guess=drug gold=movie confidence=0.6473537229871937
-Error: Dada Sahib guess=person gold=movie confidence=0.6094288938737898
-Error: Dakhtaran-e Khorshid guess=person gold=movie confidence=0.7743764768146999
-Error: Dalheim guess=place gold=movie confidence=0.7785262601537113
-Error: Delusional guess=drug gold=movie confidence=0.6961723416589217
-Error: Denton Meets Ian Thorpe guess=place gold=movie confidence=0.46189380608599484
-Error: Detector guess=drug gold=movie confidence=0.6863662344867644
-Error: Deus Jr. guess=person gold=movie confidence=0.6829245025528131
-Error: Dhai Akshar Prem Ke guess=person gold=movie confidence=0.5347048193118811
-Error: Dogwatch guess=place gold=movie confidence=0.4897828689891305
-Error: Dol� guess=drug gold=movie confidence=0.41239439420312946
-Error: Donald Duck Goin' Quackers guess=person gold=movie confidence=0.5369422086463901
-Error: Downpour guess=place gold=movie confidence=0.7359939044955576
-Error: Dragonriders of Pern guess=person gold=movie confidence=0.7370234013291449
-Error: Dubbel-�ttan guess=place gold=movie confidence=0.6080527280121442
-Error: Dum guess=place gold=movie confidence=0.44269301137445827
-Error: Enter guess=place gold=movie confidence=0.3907026211002503
-Error: Epoch guess=place gold=movie confidence=0.6985814570270252
-Error: Eugenie Sandler P.I. guess=person gold=movie confidence=0.6423858755487314
-Error: FDS guess=drug gold=movie confidence=0.6043518197896485
-Error: Fish guess=place gold=movie confidence=0.5664384038727419
-Error: Forty Years On Coronation Street guess=company gold=movie confidence=0.5101493614955204
-Error: Frank Herbert's Dune guess=person gold=movie confidence=0.8550728641793296
-Error: G. guess=drug gold=movie confidence=0.3461850498818213
-Error: Gaja Gamini guess=person gold=movie confidence=0.7333611789875736
-Error: Georgian Grapes guess=person gold=movie confidence=0.9205505261564857
-Error: Ghosthunter guess=place gold=movie confidence=0.5006991933135908
-Error: Giravolte guess=drug gold=movie confidence=0.5262972646781837
-Error: Glow guess=place gold=movie confidence=0.5523191156801415
-Error: Granturismo guess=place gold=movie confidence=0.5152067626444645
-Error: Great Idea guess=place gold=movie confidence=0.5478333974562671
-Error: Gro�stadttr�ume guess=place gold=movie confidence=0.6947397281412282
-Error: Hard Boiled Egg guess=person gold=movie confidence=0.6907359408452876
-Error: Hassel - F�rg�rarna guess=person gold=movie confidence=0.5404438216964239
-Error: Hopkins guess=place gold=movie confidence=0.5930095728638406
-Error: Humbert guess=place gold=movie confidence=0.7529176189915615
-Error: Jaaaaam guess=place gold=movie confidence=0.6112293539957596
-Error: Jersey Guy guess=person gold=movie confidence=0.9289661410831832
-Error: John Henry guess=person gold=movie confidence=0.9935017470572394
-Error: Jungle guess=place gold=movie confidence=0.4964430738496795
-Error: Kaliber Deluxe guess=person gold=movie confidence=0.38843877600444676
-Error: Kippour guess=place gold=movie confidence=0.6378475367859167
-Error: Kiri Maori guess=person gold=movie confidence=0.6462188101066446
-Error: Krajinka guess=place gold=movie confidence=0.4902411829210293
-Error: Kurosufai� guess=drug gold=movie confidence=0.3894527966228776
-Error: Kurukshetra guess=place gold=movie confidence=0.504670038030485
-Error: L'Attrape-r�ves guess=place gold=movie confidence=0.6547442315411386
-Error: La Villa guess=place gold=movie confidence=0.5189758686757594
-Error: Lafanmi Selavi guess=person gold=movie confidence=0.7688830109643551
-Error: Lawrence Melm guess=person gold=movie confidence=0.7913573050542517
-Error: Le Chapeau guess=place gold=movie confidence=0.5306685262112976
-Error: Le Larbin guess=person gold=movie confidence=0.5323132480856053
-Error: Ligne 208 guess=drug gold=movie confidence=0.6030545855080458
-Error: Lomalla guess=place gold=movie confidence=0.7246337526755584
-Error: Luz guess=place gold=movie confidence=0.543334594068053
-Error: M. zkt. vr. guess=person gold=movie confidence=0.4151790543833869
-Error: Maestrale guess=place gold=movie confidence=0.5564297453723387
-Error: Marco guess=place gold=movie confidence=0.35731951759168845
-Error: Marriage Prep guess=person gold=movie confidence=0.36369923488867967
-Error: Mayhem guess=place gold=movie confidence=0.633106254785287
-Error: Millevaches guess=place gold=movie confidence=0.8449881158235649
-Error: Miss Rumphius guess=person gold=movie confidence=0.5312376319313554
-Error: Misstoestanden guess=place gold=movie confidence=0.9160207240598406
-Error: Monica guess=place gold=movie confidence=0.6548517319367694
-Error: Moosh guess=place gold=movie confidence=0.7042179191649495
-Error: Mr. Hughes guess=person gold=movie confidence=0.6028090541878177
-Error: Nessundorma guess=place gold=movie confidence=0.6962497282192011
-Error: Nitwit Predelick guess=person gold=movie confidence=0.40989952156034426
-Error: Numero Bruno guess=person gold=movie confidence=0.46030733259123513
-Error: O Delfim guess=drug gold=movie confidence=0.30213009066236457
-Error: Our Journey guess=place gold=movie confidence=0.49270297321336215
-Error: Pieni pyhiinvaellus guess=person gold=movie confidence=0.8301167239642271
-Error: Poppuguruupu Koroshiya guess=person gold=movie confidence=0.5345729197604653
-Error: Pro Skater 2 guess=drug gold=movie confidence=0.6067092575201501
-Error: P�ratlan guess=place gold=movie confidence=0.541396194213442
-Error: RLH guess=drug gold=movie confidence=0.47828721098717125
-Error: RPG Maker guess=person gold=movie confidence=0.7663998800559016
-Error: Rancid Aluminium guess=drug gold=movie confidence=0.699579443207199
-Error: Rejseholdet guess=drug gold=movie confidence=0.500514447113542
-Error: Ristningar guess=place gold=movie confidence=0.6082430365726068
-Error: Rosamunde Pilcher - Zerrissene Herzen guess=person gold=movie confidence=0.676821007966591
-Error: Sciography guess=drug gold=movie confidence=0.43298366650972425
-Error: Sham guess=place gold=movie confidence=0.8138073692643769
-Error: Sheep guess=place gold=movie confidence=0.4618072408213887
-Error: South guess=place gold=movie confidence=0.9130727827466191
-Error: Starforce guess=place gold=movie confidence=0.5922136142666251
-Error: Stj�rnfall guess=place gold=movie confidence=0.7923472131606968
-Error: Stopar guess=drug gold=movie confidence=0.39660782428446695
-Error: Strawberry Flavour guess=person gold=movie confidence=0.5422484939103016
-Error: Sweet guess=place gold=movie confidence=0.5987649342539269
-Error: Sync guess=drug gold=movie confidence=0.5637750722370191
-Error: T.R.A.X. guess=drug gold=movie confidence=0.5426597499832962
-Error: Team Spirit guess=drug gold=movie confidence=0.4532328203036999
-Error: They Will Laugh guess=person gold=movie confidence=0.7308563019643989
-Error: Thomson of Arnhem Land guess=person gold=movie confidence=0.6633666734988459
-Error: Tom Sawyer guess=person gold=movie confidence=0.9034388553587258
-Error: Torab al-ghoraba guess=person gold=movie confidence=0.4781585138658031
-Error: Trixie guess=drug gold=movie confidence=0.45739141557372937
-Error: Turbulence guess=place gold=movie confidence=0.695108577014019
-Error: Uttara guess=place gold=movie confidence=0.6360618109529372
-Error: Vanishing Point guess=place gold=movie confidence=0.5221231855848191
-Error: Vendetta guess=place gold=movie confidence=0.48760701520945604
-Error: Victor guess=drug gold=movie confidence=0.5431679312844502
-Error: Vogelforscher guess=place gold=movie confidence=0.9179903119286782
-Error: Warpath guess=place gold=movie confidence=0.8380219580542966
-Error: Window guess=place gold=movie confidence=0.8264549404457767
-Error: Yocavil guess=drug gold=movie confidence=0.8629839760586188
-Error: Zebralla guess=place gold=movie confidence=0.7485483571884228
-Error: Abercrombie & Fitch guess=movie gold=company confidence=0.7898455565263522
-Error: Airgas On-line guess=movie gold=company confidence=0.39288558404680646
-Error: Asia Pacific Wire & Cable guess=movie gold=company confidence=0.5523034908550187
-Error: Belz Richard guess=person gold=company confidence=0.8595321995036089
-Error: Best Foods guess=movie gold=company confidence=0.706671895759042
-Error: Blue Square-Israel Ltd guess=movie gold=company confidence=0.49493433533670644
-Error: Detroit Edison guess=movie gold=company confidence=0.4546973073129051
-Error: Distribuci�n y Servicio (D&S) guess=movie gold=company confidence=0.8048758537239536
-Error: Elsevier N V guess=person gold=company confidence=0.81784077757374
-Error: Fannie Mae guess=movie gold=company confidence=0.5970517039336263
-Error: Fedl Home Ln Mtg guess=movie gold=company confidence=0.45471359923860005
-Error: Great Lakes Reit guess=movie gold=company confidence=0.7462084142114371
-Error: Groupe Danone guess=movie gold=company confidence=0.47342325494416193
-Error: Gundle Slt Environmental guess=movie gold=company confidence=0.4392342191536463
-Error: Head N.V. guess=movie gold=company confidence=0.3132778855403176
-Error: Jack in the Box Inc. guess=movie gold=company confidence=0.8036063536643269
-Error: KLM Royal Dutch Airlines. guess=movie gold=company confidence=0.5889116420383115
-Error: NBCI Auto Commn Exchange guess=movie gold=company confidence=0.5942379626808825
-Error: Novartis guess=drug gold=company confidence=0.42734406848241874
-Error: PennEngineering guess=place gold=company confidence=0.9320206487411339
-Error: Rhodia guess=place gold=company confidence=0.4715248281084542
-Error: S&P Global 100 Index guess=drug gold=company confidence=0.9337718626779461
-Error: Serono guess=drug gold=company confidence=0.43155256708469947
-Error: Sulzer Medica guess=movie gold=company confidence=0.6016522632773698
-Error: Swisscom Ag guess=movie gold=company confidence=0.4731942150755551
-Error: Telebras HOLDRs guess=person gold=company confidence=0.4225137118367215
-Error: Tennessee Valley Auth guess=place gold=company confidence=0.6074020376370557
-Error: Transportadora de Gas del Sur guess=movie gold=company confidence=0.5692292979019841
-Error: Un Banco M�s de Todos guess=movie gold=company confidence=0.702966866333484
-Error: Usx Marathon Lg-Tm guess=movie gold=company confidence=0.46473713568293923
-Error: Van Kampen Bond Fund guess=movie gold=company confidence=0.5352848064975428
-Error: YPF guess=place gold=company confidence=0.4284919346324785
+Example: Albert Glyburide guess=person gold=drug confidence=0.9257690850725603
+Example: Alesse guess=place gold=drug confidence=0.7473811692528678
+Example: Allay guess=place gold=drug confidence=0.7086251681541945
+Example: Allegra guess=place gold=drug confidence=0.37145619696474863
+Example: Amgenal Cough guess=movie gold=drug confidence=0.38154885872137323
+Example: Barbita guess=place gold=drug confidence=0.4915467491142991
+Example: Barriere-HC guess=place gold=drug confidence=0.8949893121829973
+Example: Beben guess=movie gold=drug confidence=0.44806242155958664
+Example: Because guess=place gold=drug confidence=0.5756815202131762
+Example: BIAVAX II guess=person gold=drug confidence=0.31326716232735685
+Example: Brethine guess=place gold=drug confidence=0.3878058035129446
+Example: Broncomar GG guess=company gold=drug confidence=0.3443481459820441
+Example: Camptosar guess=place gold=drug confidence=0.36114483901431366
+Example: Caverject guess=movie gold=drug confidence=0.34239818081670637
+Example: Clear by Design Medicated Cleansing Pads guess=movie gold=drug confidence=0.8145558395985606
+Example: Cutar Water Dispersible Emollient Tar guess=movie gold=drug confidence=0.9367544159261094
+Example: Dodd's Pills guess=movie gold=drug confidence=0.638566029672421
+Example: Famvir guess=movie gold=drug confidence=0.5570992680620204
+Example: Fansidar guess=movie gold=drug confidence=0.5995678114655361
+Example: FluShield guess=place gold=drug confidence=0.8038905282785137
+Example: Gammar-P IV guess=person gold=drug confidence=0.8269044224791829
+Example: Gee-Gee guess=place gold=drug confidence=0.6474846976513914
+Example: Glaucon guess=place gold=drug confidence=0.562218481643238
+Example: Headache Tablet guess=movie gold=drug confidence=0.8925387736204685
+Example: Kadian guess=movie gold=drug confidence=0.5618895053931743
+Example: Kato guess=movie gold=drug confidence=0.4384881613400377
+Example: Meridia guess=place gold=drug confidence=0.6178946286400195
+Example: Meruvax II guess=person gold=drug confidence=0.47462248443723354
+Example: Miltown guess=place gold=drug confidence=0.8479572733298464
+Example: Moban guess=place gold=drug confidence=0.41640609524235633
+Example: Mylanta Gas guess=movie gold=drug confidence=0.4565030030254192
+Example: Neumega guess=place gold=drug confidence=0.821002015667034
+Example: Neuroforte-R guess=place gold=drug confidence=0.5373591795600017
+Example: Orfro guess=movie gold=drug confidence=0.38440885505507777
+Example: Provera Pak guess=movie gold=drug confidence=0.5499353209988236
+Example: Pyri guess=movie gold=drug confidence=0.6579247287592488
+Example: Rowasa guess=place gold=drug confidence=0.4918847270872196
+Example: SensoGARD Canker Sore Relief guess=movie gold=drug confidence=0.4091496629489702
+Example: Shovite guess=movie gold=drug confidence=0.47606144273537426
+Example: Slow Fe guess=movie gold=drug confidence=0.8038909833997073
+Example: Statuss Green 39 guess=movie gold=drug confidence=0.5183920916516404
+Example: Storz-Dexa guess=place gold=drug confidence=0.39634800406259435
+Example: Sublimaze guess=movie gold=drug confidence=0.7411923523761031
+Example: Sunkist guess=movie gold=drug confidence=0.38133865975171544
+Example: Sustiva guess=movie gold=drug confidence=0.4932648189856856
+Example: Tarka guess=place gold=drug confidence=0.6824651531017869
+Example: Vaseline Extra Defense for Hand and Body 41 guess=movie gold=drug confidence=0.641583760764285
+Example: Versel Lotion guess=movie gold=drug confidence=0.44206896737683604
+Example: Vumon guess=place gold=drug confidence=0.5757091781183339
+Example: Apollo guess=movie gold=person confidence=0.3265588322654296
+Example: Athene guess=drug gold=person confidence=0.6945070044444334
+Example: Barakah guess=place gold=person confidence=0.4753668837877867
+Example: Ben Kingsley guess=place gold=person confidence=0.4880976606758612
+Example: Blaise Pascal guess=movie gold=person confidence=0.8589444334528978
+Example: Buffon guess=place gold=person confidence=0.6727956153963489
+Example: C de la Vall�e Poussin guess=movie gold=person confidence=0.866625714176775
+Example: Cal Ripken, Jr. guess=movie gold=person confidence=0.5374954875129553
+Example: Catfish Hunter guess=movie gold=person confidence=0.42049300132748313
+Example: Celestine II guess=drug gold=person confidence=0.46117512596770466
+Example: Cher guess=place gold=person confidence=0.4829105001427707
+Example: Chevy Chase guess=movie gold=person confidence=0.42634476421964973
+Example: Clouet guess=place gold=person confidence=0.5641460379180433
+Example: Conon guess=place gold=person confidence=0.6615679018770949
+Example: D'alembert guess=place gold=person confidence=0.5786421367923051
+Example: Deepak Chopra guess=movie gold=person confidence=0.581058776135662
+Example: Dirk Bouts guess=movie gold=person confidence=0.9333169743883145
+Example: Empedocles guess=place gold=person confidence=0.3480922595617359
+Example: Galahad guess=place gold=person confidence=0.4810619395533765
+Example: Gorlois guess=place gold=person confidence=0.6585688753328252
+Example: Hans Reichenbach guess=place gold=person confidence=0.6914786648465361
+Example: Heather Locklear guess=movie gold=person confidence=0.8055808471444735
+Example: Herakles guess=movie gold=person confidence=0.5178908031788959
+Example: Hercules guess=place gold=person confidence=0.4762989300348417
+Example: Isaac Newton guess=place gold=person confidence=0.5727005487809459
+Example: Maria da Lourdes Pintasilgo guess=movie gold=person confidence=0.8836988438804129
+Example: Mickey Mantle guess=movie gold=person confidence=0.44636344480432744
+Example: Miguel Angel Asturias guess=movie gold=person confidence=0.7399412161984803
+Example: Mohamed Anwar El Sadat guess=movie gold=person confidence=0.9052099373977728
+Example: Mordred guess=place gold=person confidence=0.4134186012903855
+Example: Nellie Bly guess=movie gold=person confidence=0.45928315322666946
+Example: Olga Cordero guess=movie gold=person confidence=0.6245384637514202
+Example: Oronce Fine guess=drug gold=person confidence=0.6180873710003445
+Example: Paschal II guess=movie gold=person confidence=0.7552110701752013
+Example: Phidias guess=drug gold=person confidence=0.5865130484419058
+Example: Plotinus guess=drug gold=person confidence=0.5665489316773472
+Example: Ptolemy guess=place gold=person confidence=0.33909666385392123
+Example: Ray Schalk guess=movie gold=person confidence=0.5201433828998872
+Example: Ren� de Sluze guess=movie gold=person confidence=0.6411698799969135
+Example: Roussou, guess=place gold=person confidence=0.8169688146157965
+Example: Tartaglia guess=place gold=person confidence=0.7561625053998923
+Example: Thales guess=place gold=person confidence=0.7339497584332723
+Example: Thanatos guess=place gold=person confidence=0.404522200151471
+Example: Tristan & Isolde guess=drug gold=person confidence=0.6467919196648477
+Example: Tutankhamen guess=place gold=person confidence=0.5122455952769018
+Example: Aberdyfi guess=movie gold=place confidence=0.4149259676849693
+Example: Alphen guess=drug gold=place confidence=0.7616506108700664
+Example: Balsall Common guess=movie gold=place confidence=0.5701095380360163
+Example: Barking and Dagenham guess=movie gold=place confidence=0.6135900896884644
+Example: Barnard Castle guess=person gold=place confidence=0.5207081995409414
+Example: Barrack Heights guess=movie gold=place confidence=0.49135856159175867
+Example: Betws-y-Coed guess=drug gold=place confidence=0.3989290248690217
+Example: Blackwater guess=movie gold=place confidence=0.5180622050492977
+Example: Bondi Junction guess=movie gold=place confidence=0.7486331932395486
+Example: Bosnia and Herzegovina guess=movie gold=place confidence=0.9272776967073207
+Example: Bunnik guess=movie gold=place confidence=0.4807617881064638
+Example: Bury St. Edmunds guess=person gold=place confidence=0.46846746294942937
+Example: Clare guess=movie gold=place confidence=0.4401328055556139
+Example: Cogolin guess=drug gold=place confidence=0.7260055428489802
+Example: Colmar guess=drug gold=place confidence=0.5148042541845321
+Example: Colorado guess=drug gold=place confidence=0.4761299500896054
+Example: Corte guess=drug gold=place confidence=0.8372202810215901
+Example: Coverack guess=movie gold=place confidence=0.49816148616834705
+Example: Deal guess=movie gold=place confidence=0.5473591289026755
+Example: Denby Dale guess=movie gold=place confidence=0.4800323450119491
+Example: Diss guess=movie gold=place confidence=0.6472961192472815
+Example: Dural guess=drug gold=place confidence=0.8400676626098882
+Example: Ediger guess=movie gold=place confidence=0.43835704250383906
+Example: Elanora Heights guess=person gold=place confidence=0.5227728096021388
+Example: Exeter guess=movie gold=place confidence=0.31183994665172354
+Example: Fajardo guess=movie gold=place confidence=0.7852262138447709
+Example: Faygate guess=movie gold=place confidence=0.37830923388232635
+Example: Five Dock guess=movie gold=place confidence=0.9388159719927359
+Example: Florence Court guess=person gold=place confidence=0.7726886344972609
+Example: Freising guess=movie gold=place confidence=0.6372587854546853
+Example: Gest� guess=movie gold=place confidence=0.4263928089223627
+Example: Goffs Oak guess=movie gold=place confidence=0.5474932654031287
+Example: Hemyock guess=movie gold=place confidence=0.46768916001045124
+Example: Hilcote guess=drug gold=place confidence=0.5253345960014933
+Example: Ivanovo guess=movie gold=place confidence=0.38979596662507743
+Example: John o' Groats guess=person gold=place confidence=0.9411827450756455
+Example: Joyeuse guess=person gold=place confidence=0.41494649400304595
+Example: Julianadorp aan Zee guess=person gold=place confidence=0.8236036727279169
+Example: King's Lynn guess=movie gold=place confidence=0.5885959182926687
+Example: La Trinit�-sur-Mer guess=movie gold=place confidence=0.5111080185629951
+Example: Lab�ge guess=movie gold=place confidence=0.4711076733390928
+Example: Lemmer guess=movie gold=place confidence=0.48327267785841266
+Example: Les Saisies guess=movie gold=place confidence=0.8791876011786288
+Example: Mandelieu la Napoule guess=movie gold=place confidence=0.8443703753943629
+Example: Marazion guess=movie gold=place confidence=0.4654955431183825
+Example: Melrose guess=drug gold=place confidence=0.6037270564670459
+Example: Muir of Ord guess=movie gold=place confidence=0.6670620183704346
+Example: Myanmar guess=drug gold=place confidence=0.5645348402373163
+Example: Najac guess=drug gold=place confidence=0.615739723278132
+Example: Narromine guess=drug gold=place confidence=0.701100389091925
+Example: Old Warden guess=movie gold=place confidence=0.6328505839896731
+Example: Oundle guess=movie gold=place confidence=0.5327634611683995
+Example: Paris guess=movie gold=place confidence=0.6050640456692499
+Example: Perm guess=drug gold=place confidence=0.7596026918701565
+Example: Pleasure Point guess=movie gold=place confidence=0.6247721185542476
+Example: Poitiers guess=movie gold=place confidence=0.4884138369668397
+Example: Prescot guess=drug gold=place confidence=0.5955173321301758
+Example: Quirindi guess=movie gold=place confidence=0.6135916094299102
+Example: Reims guess=movie gold=place confidence=0.46416913721411357
+Example: Remseck guess=drug gold=place confidence=0.4153170130155548
+Example: Rhyl guess=drug gold=place confidence=0.8774921247228611
+Example: Rio Blanco guess=person gold=place confidence=0.6775933565576496
+Example: Rio Piedras guess=person gold=place confidence=0.763346033954104
+Example: Rothenburg ob der Tauber guess=person gold=place confidence=0.8485735192935573
+Example: Saint Vincent and The Grenadines guess=movie gold=place confidence=0.9720544205342585
+Example: Samara guess=movie gold=place confidence=0.45799356074816044
+Example: Sao Tome and Principe guess=movie gold=place confidence=0.9755352731354293
+Example: Scone guess=drug gold=place confidence=0.4492985848048158
+Example: Sens guess=movie gold=place confidence=0.5145270131319504
+Example: Shipston on Stour guess=movie gold=place confidence=0.5439422544205179
+Example: Solomon Islands guess=movie gold=place confidence=0.7095110351153743
+Example: St. Andrews guess=person gold=place confidence=0.7985994595525503
+Example: Strabane guess=drug gold=place confidence=0.49393207132387046
+Example: Suhl guess=drug gold=place confidence=0.5214555593631451
+Example: Travem�nde guess=movie gold=place confidence=0.570712973101793
+Example: Trinidad and Tobago guess=movie gold=place confidence=0.9179402346382848
+Example: Tuvalu guess=drug gold=place confidence=0.6853105882914968
+Example: Twente guess=movie gold=place confidence=0.44889480504247836
+Example: Ventabren guess=drug gold=place confidence=0.8382902775931175
+Example: Vietnam guess=movie gold=place confidence=0.36077442342752025
+Example: Westward Ho! guess=movie gold=place confidence=0.3456479951642723
+Example: 0.12h guess=drug gold=movie confidence=0.6279466762981428
+Example: 405 guess=drug gold=movie confidence=0.7735676325955677
+Example: 50CC guess=drug gold=movie confidence=0.8679122734018133
+Example: 9-Ball guess=drug gold=movie confidence=0.5263894699125833
+Example: Accidental Detective guess=drug gold=movie confidence=0.6204608588635224
+Example: Aisha guess=place gold=movie confidence=0.810387612761185
+Example: Aitanic guess=drug gold=movie confidence=0.5495713359891281
+Example: Am�lia guess=place gold=movie confidence=0.5602618226052174
+Example: Anak guess=drug gold=movie confidence=0.4280982664216759
+Example: Andel Exit guess=person gold=movie confidence=0.38985277382706734
+Example: Animated Corpse guess=company gold=movie confidence=0.7458834457001065
+Example: Apartment Hunting guess=person gold=movie confidence=0.5637730347311783
+Example: BWP2 guess=drug gold=movie confidence=0.5210448570197339
+Example: Banditskij Peterburg guess=place gold=movie confidence=0.7452617991377275
+Example: Banjo-Tooie guess=place gold=movie confidence=0.816181657951407
+Example: Barnard Girls guess=person gold=movie confidence=0.6006148885023579
+Example: Battery Park guess=place gold=movie confidence=0.5364897553762689
+Example: Bavandar guess=place gold=movie confidence=0.43791577204315885
+Example: Believe guess=place gold=movie confidence=0.6229294595363898
+Example: Best guess=place gold=movie confidence=0.42619359617290564
+Example: Bhai Thakur guess=person gold=movie confidence=0.44719090515189835
+Example: Billet-doux guess=place gold=movie confidence=0.8845230066327344
+Example: Bio-Cops guess=drug gold=movie confidence=0.6622831432860108
+Example: Blister guess=place gold=movie confidence=0.5949298461478837
+Example: Blood guess=place gold=movie confidence=0.5252142339078475
+Example: Bombshell guess=place gold=movie confidence=0.8713404418646903
+Example: Bone guess=place gold=movie confidence=0.5290794166356819
+Example: Boris guess=place gold=movie confidence=0.6026961021398558
+Example: Bronx-Barb�s guess=drug gold=movie confidence=0.4841831140119337
+Example: Brottsv�g guess=place gold=movie confidence=0.5665649935961367
+Example: Burnside guess=place gold=movie confidence=0.7892081060984507
+Example: Buttwoman vs. Buttwoman guess=person gold=movie confidence=0.5617881764704648
+Example: Cabin Fever guess=person gold=movie confidence=0.5417426801111289
+Example: Caribbean Undercover guess=person gold=movie confidence=0.6752021322196337
+Example: Catastrophe guess=drug gold=movie confidence=0.7436052635205218
+Example: Cecilia guess=place gold=movie confidence=0.3748218506311916
+Example: Cherry Hills guess=place gold=movie confidence=0.794035059523463
+Example: Citizen James guess=person gold=movie confidence=0.6434263981718102
+Example: Conamara guess=place gold=movie confidence=0.4620366035462725
+Example: Cremains guess=place gold=movie confidence=0.9389401706795033
+Example: Cursed guess=place gold=movie confidence=0.39916254965325243
+Example: C�sar guess=place gold=movie confidence=0.47250412272911985
+Example: D.C. guess=drug gold=movie confidence=0.6473537229871937
+Example: Dada Sahib guess=person gold=movie confidence=0.6094288938737898
+Example: Dakhtaran-e Khorshid guess=person gold=movie confidence=0.7743764768146999
+Example: Dalheim guess=place gold=movie confidence=0.7785262601537113
+Example: Delusional guess=drug gold=movie confidence=0.6961723416589217
+Example: Denton Meets Ian Thorpe guess=place gold=movie confidence=0.46189380608599484
+Example: Detector guess=drug gold=movie confidence=0.6863662344867644
+Example: Deus Jr. guess=person gold=movie confidence=0.6829245025528131
+Example: Dhai Akshar Prem Ke guess=person gold=movie confidence=0.5347048193118811
+Example: Dogwatch guess=place gold=movie confidence=0.4897828689891305
+Example: Dol� guess=drug gold=movie confidence=0.41239439420312946
+Example: Donald Duck Goin' Quackers guess=person gold=movie confidence=0.5369422086463901
+Example: Downpour guess=place gold=movie confidence=0.7359939044955576
+Example: Dragonriders of Pern guess=person gold=movie confidence=0.7370234013291449
+Example: Dubbel-�ttan guess=place gold=movie confidence=0.6080527280121442
+Example: Dum guess=place gold=movie confidence=0.44269301137445827
+Example: Enter guess=place gold=movie confidence=0.3907026211002503
+Example: Epoch guess=place gold=movie confidence=0.6985814570270252
+Example: Eugenie Sandler P.I. guess=person gold=movie confidence=0.6423858755487314
+Example: FDS guess=drug gold=movie confidence=0.6043518197896485
+Example: Fish guess=place gold=movie confidence=0.5664384038727419
+Example: Forty Years On Coronation Street guess=company gold=movie confidence=0.5101493614955204
+Example: Frank Herbert's Dune guess=person gold=movie confidence=0.8550728641793296
+Example: G. guess=drug gold=movie confidence=0.3461850498818213
+Example: Gaja Gamini guess=person gold=movie confidence=0.7333611789875736
+Example: Georgian Grapes guess=person gold=movie confidence=0.9205505261564857
+Example: Ghosthunter guess=place gold=movie confidence=0.5006991933135908
+Example: Giravolte guess=drug gold=movie confidence=0.5262972646781837
+Example: Glow guess=place gold=movie confidence=0.5523191156801415
+Example: Granturismo guess=place gold=movie confidence=0.5152067626444645
+Example: Great Idea guess=place gold=movie confidence=0.5478333974562671
+Example: Gro�stadttr�ume guess=place gold=movie confidence=0.6947397281412282
+Example: Hard Boiled Egg guess=person gold=movie confidence=0.6907359408452876
+Example: Hassel - F�rg�rarna guess=person gold=movie confidence=0.5404438216964239
+Example: Hopkins guess=place gold=movie confidence=0.5930095728638406
+Example: Humbert guess=place gold=movie confidence=0.7529176189915615
+Example: Jaaaaam guess=place gold=movie confidence=0.6112293539957596
+Example: Jersey Guy guess=person gold=movie confidence=0.9289661410831832
+Example: John Henry guess=person gold=movie confidence=0.9935017470572394
+Example: Jungle guess=place gold=movie confidence=0.4964430738496795
+Example: Kaliber Deluxe guess=person gold=movie confidence=0.38843877600444676
+Example: Kippour guess=place gold=movie confidence=0.6378475367859167
+Example: Kiri Maori guess=person gold=movie confidence=0.6462188101066446
+Example: Krajinka guess=place gold=movie confidence=0.4902411829210293
+Example: Kurosufai� guess=drug gold=movie confidence=0.3894527966228776
+Example: Kurukshetra guess=place gold=movie confidence=0.504670038030485
+Example: L'Attrape-r�ves guess=place gold=movie confidence=0.6547442315411386
+Example: La Villa guess=place gold=movie confidence=0.5189758686757594
+Example: Lafanmi Selavi guess=person gold=movie confidence=0.7688830109643551
+Example: Lawrence Melm guess=person gold=movie confidence=0.7913573050542517
+Example: Le Chapeau guess=place gold=movie confidence=0.5306685262112976
+Example: Le Larbin guess=person gold=movie confidence=0.5323132480856053
+Example: Ligne 208 guess=drug gold=movie confidence=0.6030545855080458
+Example: Lomalla guess=place gold=movie confidence=0.7246337526755584
+Example: Luz guess=place gold=movie confidence=0.543334594068053
+Example: M. zkt. vr. guess=person gold=movie confidence=0.4151790543833869
+Example: Maestrale guess=place gold=movie confidence=0.5564297453723387
+Example: Marco guess=place gold=movie confidence=0.35731951759168845
+Example: Marriage Prep guess=person gold=movie confidence=0.36369923488867967
+Example: Mayhem guess=place gold=movie confidence=0.633106254785287
+Example: Millevaches guess=place gold=movie confidence=0.8449881158235649
+Example: Miss Rumphius guess=person gold=movie confidence=0.5312376319313554
+Example: Misstoestanden guess=place gold=movie confidence=0.9160207240598406
+Example: Monica guess=place gold=movie confidence=0.6548517319367694
+Example: Moosh guess=place gold=movie confidence=0.7042179191649495
+Example: Mr. Hughes guess=person gold=movie confidence=0.6028090541878177
+Example: Nessundorma guess=place gold=movie confidence=0.6962497282192011
+Example: Nitwit Predelick guess=person gold=movie confidence=0.40989952156034426
+Example: Numero Bruno guess=person gold=movie confidence=0.46030733259123513
+Example: O Delfim guess=drug gold=movie confidence=0.30213009066236457
+Example: Our Journey guess=place gold=movie confidence=0.49270297321336215
+Example: Pieni pyhiinvaellus guess=person gold=movie confidence=0.8301167239642271
+Example: Poppuguruupu Koroshiya guess=person gold=movie confidence=0.5345729197604653
+Example: Pro Skater 2 guess=drug gold=movie confidence=0.6067092575201501
+Example: P�ratlan guess=place gold=movie confidence=0.541396194213442
+Example: RLH guess=drug gold=movie confidence=0.47828721098717125
+Example: RPG Maker guess=person gold=movie confidence=0.7663998800559016
+Example: Rancid Aluminium guess=drug gold=movie confidence=0.699579443207199
+Example: Rejseholdet guess=drug gold=movie confidence=0.500514447113542
+Example: Ristningar guess=place gold=movie confidence=0.6082430365726068
+Example: Rosamunde Pilcher - Zerrissene Herzen guess=person gold=movie confidence=0.676821007966591
+Example: Sciography guess=drug gold=movie confidence=0.43298366650972425
+Example: Sham guess=place gold=movie confidence=0.8138073692643769
+Example: Sheep guess=place gold=movie confidence=0.4618072408213887
+Example: South guess=place gold=movie confidence=0.9130727827466191
+Example: Starforce guess=place gold=movie confidence=0.5922136142666251
+Example: Stj�rnfall guess=place gold=movie confidence=0.7923472131606968
+Example: Stopar guess=drug gold=movie confidence=0.39660782428446695
+Example: Strawberry Flavour guess=person gold=movie confidence=0.5422484939103016
+Example: Sweet guess=place gold=movie confidence=0.5987649342539269
+Example: Sync guess=drug gold=movie confidence=0.5637750722370191
+Example: T.R.A.X. guess=drug gold=movie confidence=0.5426597499832962
+Example: Team Spirit guess=drug gold=movie confidence=0.4532328203036999
+Example: They Will Laugh guess=person gold=movie confidence=0.7308563019643989
+Example: Thomson of Arnhem Land guess=person gold=movie confidence=0.6633666734988459
+Example: Tom Sawyer guess=person gold=movie confidence=0.9034388553587258
+Example: Torab al-ghoraba guess=person gold=movie confidence=0.4781585138658031
+Example: Trixie guess=drug gold=movie confidence=0.45739141557372937
+Example: Turbulence guess=place gold=movie confidence=0.695108577014019
+Example: Uttara guess=place gold=movie confidence=0.6360618109529372
+Example: Vanishing Point guess=place gold=movie confidence=0.5221231855848191
+Example: Vendetta guess=place gold=movie confidence=0.48760701520945604
+Example: Victor guess=drug gold=movie confidence=0.5431679312844502
+Example: Vogelforscher guess=place gold=movie confidence=0.9179903119286782
+Example: Warpath guess=place gold=movie confidence=0.8380219580542966
+Example: Window guess=place gold=movie confidence=0.8264549404457767
+Example: Yocavil guess=drug gold=movie confidence=0.8629839760586188
+Example: Zebralla guess=place gold=movie confidence=0.7485483571884228
+Example: Abercrombie & Fitch guess=movie gold=company confidence=0.7898455565263522
+Example: Airgas On-line guess=movie gold=company confidence=0.39288558404680646
+Example: Asia Pacific Wire & Cable guess=movie gold=company confidence=0.5523034908550187
+Example: Belz Richard guess=person gold=company confidence=0.8595321995036089
+Example: Best Foods guess=movie gold=company confidence=0.706671895759042
+Example: Blue Square-Israel Ltd guess=movie gold=company confidence=0.49493433533670644
+Example: Detroit Edison guess=movie gold=company confidence=0.4546973073129051
+Example: Distribuci�n y Servicio (D&S) guess=movie gold=company confidence=0.8048758537239536
+Example: Elsevier N V guess=person gold=company confidence=0.81784077757374
+Example: Fannie Mae guess=movie gold=company confidence=0.5970517039336263
+Example: Fedl Home Ln Mtg guess=movie gold=company confidence=0.45471359923860005
+Example: Great Lakes Reit guess=movie gold=company confidence=0.7462084142114371
+Example: Groupe Danone guess=movie gold=company confidence=0.47342325494416193
+Example: Gundle Slt Environmental guess=movie gold=company confidence=0.4392342191536463
+Example: Head N.V. guess=movie gold=company confidence=0.3132778855403176
+Example: Jack in the Box Inc. guess=movie gold=company confidence=0.8036063536643269
+Example: KLM Royal Dutch Airlines. guess=movie gold=company confidence=0.5889116420383115
+Example: NBCI Auto Commn Exchange guess=movie gold=company confidence=0.5942379626808825
+Example: Novartis guess=drug gold=company confidence=0.42734406848241874
+Example: PennEngineering guess=place gold=company confidence=0.9320206487411339
+Example: Rhodia guess=place gold=company confidence=0.4715248281084542
+Example: S&P Global 100 Index guess=drug gold=company confidence=0.9337718626779461
+Example: Serono guess=drug gold=company confidence=0.43155256708469947
+Example: Sulzer Medica guess=movie gold=company confidence=0.6016522632773698
+Example: Swisscom Ag guess=movie gold=company confidence=0.4731942150755551
+Example: Telebras HOLDRs guess=person gold=company confidence=0.4225137118367215
+Example: Tennessee Valley Auth guess=place gold=company confidence=0.6074020376370557
+Example: Transportadora de Gas del Sur guess=movie gold=company confidence=0.5692292979019841
+Example: Un Banco M�s de Todos guess=movie gold=company confidence=0.702966866333484
+Example: Usx Marathon Lg-Tm guess=movie gold=company confidence=0.46473713568293923
+Example: Van Kampen Bond Fund guess=movie gold=company confidence=0.5352848064975428
+Example: YPF guess=place gold=company confidence=0.4284919346324785
