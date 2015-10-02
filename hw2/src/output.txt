@@ -1,0 +1,2 @@
+Picked up JAVA_TOOL_OPTIONS: -javaagent:/usr/share/java/jayatanaag.jar 
+Error: Could not find or load main class nlp.assignments.ProperNameTester
